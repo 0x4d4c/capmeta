@@ -1,3 +1,15 @@
+# network captures
+*.CAP
+*.cap
+*.ntar
 *.pcap
 *.pcapng
+*.snoop
+*.trace
+*.trc
+
+# compressed files
+*.bz2
+*.gz
+*.tgz
 *.zip
